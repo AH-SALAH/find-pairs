@@ -1,6 +1,6 @@
 This is a Find Pairs project done with [Next.js](https://nextjs.org/).
 
-## Getting Started
+## Start
 
 First, run the development server:
 
@@ -8,4 +8,10 @@ First, run the development server:
 npm run dev
 # or
 yarn dev
+```
+
+- for production run 
+
+```bash
+npm run build
 ```
